@@ -1,0 +1,43 @@
+body{
+	background-color: #91DDAA ;
+}
+.main{
+	/*width: 100%;*/
+	background-color:#FCFA89;
+	margin: :10%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.left{
+	width: 30%;
+	background-color: #E667DF;
+	margin: 3%;
+	border-radius: 5%;
+	text-align: center;
+	box-shadow: 4px 4px 5px 5px;
+}
+.right{
+	width: 30%;
+	background-color: #FFFFFF;
+	margin: 3%;
+	border-radius: 5%;
+	text-align: center;
+	box-shadow: 4px 4px 5px 5px;
+	border-style: solid;
+}
+img{
+	width:30%;
+	height:10%;
+	border-radius: 15%;
+	margin: 4%;
+}
+p{
+	font-size:20px;
+}
+a{
+	text-decoration: none;
+}
+a>h2{color:black}
+a>h3{color:black}
